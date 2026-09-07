@@ -14,6 +14,7 @@ A rigorous, step-by-step implementation repository documenting my journey master
 | **`day4_tool_use.py`** | Defining tool schemas, JSON argument extraction, and stop-reason interception. |
 | **`day4_full_loop.py`** | Executing complete multi-turn tool loops (local execution, result feedback, and final natural language synthesis). |
 | **`day5_multi_tool.py`** | Multi-tool autonomous agent loops, dynamic tool routing, iteration safety caps, and `try/except` error recovery boundaries. |
+| **`day8_thinking.py`** | Adaptive reasoning and extended thinking configuration using `thinking.type = "adaptive"` and effort scaling. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python
