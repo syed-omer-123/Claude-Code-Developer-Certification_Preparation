@@ -22,5 +22,5 @@ A rigorous, step-by-step implementation repository documenting my journey master
 * **Validation:** `pydantic`
 * **Environment Security:** `python-dotenv`
 
-  **Update: I passed my Claude Code Certified**
+  **Update: I passed my Claude Code Certification**
   **Link**:https://www.credly.com/badges/e249926f-5479-4a9a-a4de-24a7b4a2ef8e/linked_in?t=tl915v
